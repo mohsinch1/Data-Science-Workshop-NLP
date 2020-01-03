@@ -1,0 +1,13 @@
+*.pyc
+*.pack
+*.pkl
+*.csv
+*.txt
+*.npy
+*.tsv
+*.7z
+*.json
+*.html
+
+.idea/
+.ipynb_checkpoints/
