@@ -5,6 +5,6 @@ This notebook is prepared to get you started on the Data Science problems in the
 # Get Started
 
 Use the following link to start your notebook on Google-Colab platform:
-``
-https://colab.research.google.com/github/rayyan17/Data-Science-Workshop-NLP/blob/master/Natural%20Language%20Processing.ipynb
-``
+
+URL: [(https://colab.research.google.com/github/rayyan17/Data-Science-Workshop-NLP/blob/master/Natural%20Language%20Processing.ipynb](https://colab.research.google.com/github/rayyan17/Data-Science-Workshop-NLP/blob/master/Natural%20Language%20Processing.ipynb)
+
